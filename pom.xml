@@ -3,10 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>mango-work</groupId>
   <artifactId>mango-concurrency</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>mango-concurrency-dai Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+   <url>http://maven.apache.org</url>
 
   <modules>
     <module>mango-concurrency-dai</module>
@@ -21,6 +20,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mango-concurrency-dai</finalName>
+    <finalName>mango-concurrency</finalName>
   </build>
 </project>
