@@ -2,7 +2,7 @@ package org.mango.work.basic;
 
 /**
  * Created by 戴礼明 on 2017/6/2.
- * 多个线程多个锁的情况
+ * 多个线程多个锁的情况   对象锁以及类级别锁的区别
  */
 public class MultiThread  extends Thread{
 
