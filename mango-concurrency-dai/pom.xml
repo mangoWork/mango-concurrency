@@ -10,6 +10,7 @@
     <artifactId>mango-concurrency-dai</artifactId>
     <packaging>war</packaging>
     <name>mango-concurrency-dai Maven Webapp</name>
+    <version>1.0-SNAPSHOT</version>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

@@ -12,12 +12,12 @@
   </modules>
 
   <dependencies>
-    <dependency>
+  <!--  <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.10</version>
       <scope>test</scope>
-    </dependency>
+    </dependency>-->
   </dependencies>
   <build>
     <finalName>mango-concurrency</finalName>
