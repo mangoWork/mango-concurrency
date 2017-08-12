@@ -70,12 +70,12 @@
             </plugin>
         </plugins>
 
-        <resources>
+       <!-- <resources>
             <resource>
                   <includes>
                     <include>*.properties</include>
                 </includes>
             </resource>
-        </resources>
+        </resources>-->
     </build>
 </project>

@@ -1,0 +1,8 @@
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/basic/MultiThread.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/database/pool/c3p0/C3p0Test.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/database/pool/c3p0/C3p0ConnectionManager.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/basic/Queue.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/basic/ThreadInfo.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/threadpool/RunnableTree.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/threadpool/CachedPool.java
+/home/daiqiaobing/workspace/java/intergrations/mango-concurrency/mango-concurrency-dai/src/main/java/org/mango/work/basic/DirtyRead.java
