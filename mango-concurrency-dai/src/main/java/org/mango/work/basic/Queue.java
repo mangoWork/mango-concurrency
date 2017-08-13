@@ -68,8 +68,7 @@ public class Queue {
            }
            object = lists.removeFirst();
            count.decrementAndGet();
-           System.out.println("移除元素："+object);
-            lock.notify();
+             lock.notify();
         }
         return object;
     }
@@ -103,7 +102,8 @@ public class Queue {
         }, "t2");
 
         t1.start();
-        TimeUnit.SECONDS.sleep(3000);
+        TimeUnit.SECONDS.sleep(3);
+        t2.start();
     }
 
 }
