@@ -8,6 +8,7 @@ public class LongEventHandler implements EventHandler<LongEvent> {
 
     @Override
     public void onEvent(LongEvent longEvent, long l, boolean b) throws Exception {
-
+           System.out.println("我消费的数据是："+longEvent.getValue());
     }
+
 }
